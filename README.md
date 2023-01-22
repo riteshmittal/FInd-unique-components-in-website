@@ -1,4 +1,4 @@
-# FInd-unique-components-in-website
+# Find-unique-components-in-website
 
 This servlet can be used to find unique components in the content.
 
